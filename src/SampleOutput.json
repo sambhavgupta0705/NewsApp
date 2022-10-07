@@ -1,0 +1,268 @@
+
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Alex Harring",
+    "title": "Stock futures inch lower following Thursday’s broad sell-off - CNBC",
+    "description": "Futures moved following a sharp sell-off seen during day trading.",
+    "url": "https://www.cnbc.com/2022/09/29/stock-futures-are-flat-following-thursdays-broad-sell-off.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107116191-16627390712022-09-09t154711z_851792331_rc2qdw93x911_rtrmadp_0_usa-stocks.jpeg?v=1664490319&w=1920&h=1080",
+    "publishedAt": "2022-09-30T04:20:00Z",
+    "content": "Stock futures were lower on Friday morning following a sharp sell-off that brought the S&amp;P 500 to a new 2022 low.\r\nFutures tied to the S&amp;P 500 were down 0.25%. Dow Jones Industrial Average fu… [+1840 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Ryan Morik",
+    "title": "Dolphins' Tua Tagovailoa expected to be discharged from hospital, travel back to Miami after scary injury - Fox News",
+    "description": "There was a scary moment in the Miami Dolphins-Cincinnati Bengals game Thursday night when Dolphins QB Tua Tagovailoa was taken off the field in Cincinnati.",
+    "url": "https://www.foxnews.com/sports/dolphins-tua-tagovailoa-expected-discharged-hospital-travel-back-miami-scary-injury",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/09/tua.jpg",
+    "publishedAt": "2022-09-30T03:44:35Z",
+    "content": "Hours after being taken off the field on a stretcher with head and neck injuries, Tua Tagovailoa is expected to be discharged from the hospital and likely travel back to Miami with the Dolphins on Th… [+2183 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Miami Dolphins vs. Cincinnati Bengals | Week 4 2022 Game Highlights - NFL",
+    "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+    "url": "https://www.youtube.com/watch?v=OQSBtvsm8Ro",
+    "urlToImage": "https://i.ytimg.com/vi/OQSBtvsm8Ro/hqdefault.jpg",
+    "publishedAt": "2022-09-30T03:32:15Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KABC-TV"
+    },
+    "author": null,
+    "title": "Hurricane Ian updates: Storm upgrades to Category 1; Florida sees deaths, damage as South Carolina braces for landfall - KABC-TV",
+    "description": "\"The numbers we have are still unclear, but we're hearing early reports of what may be substantial loss of life,\" Biden said.",
+    "url": "https://abc7.com/hurricane-ian-florida-tracker-warning-orlando-weather/12278131/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/12279067_092922-cc-ap-hurricane-ian-ft-myers-img.jpeg?w=1600",
+    "publishedAt": "2022-09-30T02:40:39Z",
+    "content": "ST. PETERSBURG, Florida -- Rescue crews piloted boats and waded through inundated streets Thursday to save thousands of Floridians trapped amid flooded homes and shattered buildings left by Hurricane… [+7143 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Kali Hays, Grace Kay",
+    "title": "Elon Musk vs. Twitter: See all the juiciest billionaire private texts - Business Insider",
+    "description": "A trove of private messages between Elon Musk and notable figures in business and tech is part of Twitter's ongoing lawsuit against the billionaire.",
+    "url": "https://www.businessinsider.com/elon-musk-twitter-private-texts-jack-dorsey-larry-ellison-rogan-2022-9",
+    "urlToImage": "https://i.insider.com/62ab2d108eacc300192df60b?width=1200&format=jpeg",
+    "publishedAt": "2022-09-30T01:51:21Z",
+    "content": "Elon Musk's smartphone has been bombarded by billionaires, executives, bankers, and other notable figures from tech, finance, and media, all hoping to get a piece of his wild and wayward $44 billion … [+14888 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Abigail Ng",
+    "title": "Asia markets mixed after S&P 500 closes at new low for the year; China factory activity expands - CNBC",
+    "description": "Shares in the Asia-Pacific were lower on Friday, the last day of the third quarter, following another sell-off on Wall Street overnight.",
+    "url": "https://www.cnbc.com/2022/09/30/asia-markets-wall-street-china-pmi-stocks-currencies.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106949166-1632890418672-gettyimages-1232605497-AFP_9929BW.jpeg?v=1664494532&w=1920&h=1080",
+    "publishedAt": "2022-09-30T01:51:00Z",
+    "content": "Shares in the Asia-Pacific were lower on Friday, the last day of the third quarter, following another sell-off on Wall Street overnight. China's official factory activity data unexpectedly expanded i… [+1088 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Brian Steinberg",
+    "title": "Trevor Noah to Exit ‘Daily Show’ After Seven Years - Variety",
+    "description": "Trevor Noah is nearing his last laugh on “The Daily Show.” The comedian, who came out of near anonymity to take over the program from Jon Stewart in 2015, plans to exit the flagship Comedy Central series after a seven-year tenure that saw him transform it for…",
+    "url": "https://variety.com/2022/tv/news/trevor-noah-leaving-daily-show-1235388893/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/08/FYC_EMMYS_0011-e1660869585416.jpg?w=1024",
+    "publishedAt": "2022-09-30T01:38:00Z",
+    "content": "Trevor Noah is nearing his last laugh on “The Daily Show.”\r\nThe comedian, who came out of near anonymity to take over the program from Jon Stewart in 2015, plans to exit the flagship Comedy Central s… [+4307 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Ukraine war: US will never recognise Russia's annexation attempts, Biden vows - BBC",
+    "description": "Within hours, Vladimir Putin is expected to declare that four Ukrainian regions are joining Russia.",
+    "url": "https://www.bbc.com/news/world-europe-63084286",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1563A/production/_126901678_bidengetty.jpg",
+    "publishedAt": "2022-09-30T01:29:28Z",
+    "content": "By Elsa MaishmanBBC News\r\nThe US will \"never, never, never\" recognise Russia's attempt to annex territory in Ukraine, President Joe Biden has said. \r\nHe was speaking ahead of a speech on Friday from … [+3471 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Page Six"
+    },
+    "author": "Bernie Zilio",
+    "title": "Selena Gomez preaches kindness after Hailey Beiber interview: 'Words matter' - Page Six",
+    "description": "The model got unusually candid on a recent podcast episode, where she revealed she had spoken to Gomez since marrying the actress’ ex-boyfriend.",
+    "url": "https://pagesix.com/2022/09/29/selena-gomez-preaches-kindness-after-hailey-beiber-interview/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/09/selena-gomez-speaks-about-kindness-hailey-bieber.jpg?quality=75&strip=all&w=1200",
+    "publishedAt": "2022-09-30T01:29:00Z",
+    "content": "Selena Gomez took a moment to preach about kindness and the importance of words on the heels of Hailey Bieber’s viral podcast interview.\r\n“It’s incredibly ironic that I would release something that’s… [+2748 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Teen killed in shootout was with dad when he killed mom: Police - ABC7",
+    "description": "The Fontana teen killed this week alongside her father in a shootout with law enforcement was with him a day earlier when he fatally shot her mother, police ...",
+    "url": "https://www.youtube.com/watch?v=yNryCyTifIY",
+    "urlToImage": "https://i.ytimg.com/vi/yNryCyTifIY/hqdefault.jpg",
+    "publishedAt": "2022-09-30T01:16:43Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Amy Simonson, Christina Maxouris, Paul P. Murphy, Rebekah Riess, Dakin Andone",
+    "title": "At least 2 dead on Sanibel Island, which is cut off from Florida's mainland after Ian's storm surge severs causeway - CNN",
+    "description": "Hurricane Ian has left at least two people dead on Sanibel Island and ripped away several parts of the causeway that was the island's only access to Florida's mainland.",
+    "url": "https://www.cnn.com/2022/09/29/us/sanibel-causeway-bridge-florida-hurricane-ian/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220929094435-01b-hurricane-ian-sanibel-0929.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-30T01:14:00Z",
+    "content": "Hurricane Ian has left at least two people dead on Sanibel Island and ripped away several parts of the causeway that was the islands only access to Floridas mainland.\r\nOn Thursday night, dozens of pe… [+4365 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Perry Stein",
+    "title": "Judge rules Trump lawyers don't have to clarify Mar-a-Lago document claims - The Washington Post",
+    "description": "Special master Raymond Dearie had told Donald Trump’s attorneys lawyers to address in court whether documents were planted or declassified.",
+    "url": "https://www.washingtonpost.com/national-security/2022/09/29/cannon-dearie-trump-documents-classified/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LDE643RPTEI63PGGBB2LE2XCSY.jpg&w=1440",
+    "publishedAt": "2022-09-30T00:28:42Z",
+    "content": "Judge Aileen M. Cannon told Donald Trumps lawyers Thursday that they did not need to comply with an order from special master Raymond J. Dearie and state in a court filing whether they believe FBI ag… [+4914 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Rebecca Ratcliffe, Martin Belam, Léonie Chao-Fong, Andrew Roth",
+    "title": "Russia-Ukraine war latest: what we know on day 219 of the invasion - The Guardian",
+    "description": "Vladimir Putin signs decrees paving way for Ukrainian regions to be annexed; UN chief says move would be a ‘dangerous escalation’ with ‘no legal value’",
+    "url": "https://amp.theguardian.com/world/2022/sep/30/russia-ukraine-war-latest-what-we-know-on-day-219-of-the-invasion",
+    "urlToImage": "https://i.guim.co.uk/img/media/c5d3bced5fc675503df7d98beaf7fb4b620af9d1/9_0_2938_1763/master/2938.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=21a7c187c9e3e0195a14ed6d4be647c8",
+    "publishedAt": "2022-09-30T00:16:00Z",
+    "content": "<li>Vladimir Putin has signed decrees paving the way for the occupied Ukrainian regions of Kherson and Zaporizhzhia to be formally annexed into Russia. On Friday the Russian president is expected to … [+4843 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Google Shutting Down Stadia, Refunding Users - IGN Daily Fix - IGN",
+    "description": "On today’s IGN The Daily Fix:,In a new blog, the search engine company, Google, revealed that Stadia \"hasn't gained the traction with users that we expected,...",
+    "url": "https://www.youtube.com/watch?v=Y5xRkIgX6lc",
+    "urlToImage": "https://i.ytimg.com/vi/Y5xRkIgX6lc/maxresdefault.jpg",
+    "publishedAt": "2022-09-29T23:58:54Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Tom Tapp",
+    "title": "Universal Resort Orlando Flooded, Jurassic Park Ride Damaged By Hurricane Ian; Phased Reopening To Begin Friday - Deadline",
+    "description": "Hurricane Ian unleashed 14 inches of rain and winds up to 60 mph in Orlando on Wednesday night and this morning the damage from that onslaught was clear at Universal Resort Orlando. News reports and photos posted to social media showed many areas of the park …",
+    "url": "https://deadline.com/2022/09/universal-resort-orlando-flooded-jurassic-park-ride-damaged-reopening-friday-1235131169/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2022/01/Universal-Studios-Orlando-1.jpg?w=660",
+    "publishedAt": "2022-09-29T23:06:00Z",
+    "content": "Hurricane Ian unleashed 14 inches of rain and winds up to 60 mph in Orlando on Wednesday night and this morning the damage from that onslaught was clear at Universal Resort Orlando.\r\nNews reports and… [+962 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Eonline.com"
+    },
+    "author": "Kelly Gilmore",
+    "title": "Khloe Kardashian and Tristan Thompson Were Engaged for 9 Months Before Paternity Lawsuit - E! NEWS",
+    "description": "Khloe Kardashian and Tristan Thompson were actually engaged before Khloe learned of his paternity scandal with Maralee Nichols. Learn about their under-the-radar engagement.",
+    "url": "https://www.eonline.com/news/1348527/khloe-kardashian-and-tristan-thompson-were-engaged-for-9-months-before-paternity-lawsuit",
+    "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2020824/rs_1200x1200-200924132942-1200-Khloe_Kardashian-Tristan_Thompson-gj.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+    "publishedAt": "2022-09-29T22:53:00Z",
+    "content": "New details on Tristan Thompson and Khloe Kardashians' complicated history have been revealed.\r\nE! News has confirmed that Khloe rejected Tristan's proposal in December 2019, but the pair secretly go… [+873 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Jacqueline Alemany",
+    "title": "Ginni Thomas told January 6 committee election was stolen, chairman Bennie Thompson says - The Washington Post",
+    "description": "During a nearly five-hour interview with the committee investigating the insurrection at the Capitol, the conservative activist reiterated the debunked claims of election fraud, according to Chairman Bennie G. Thompson (D-Miss.).",
+    "url": "https://www.washingtonpost.com/politics/2022/09/29/ginni-thomas-jan6-election/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QMGYYBCAFAI63DDOSODL27GYEY.jpg&w=1440",
+    "publishedAt": "2022-09-29T22:41:11Z",
+    "content": "Virginia Ginni Thomas, the wife of Supreme Court Justice Clarence Thomas, reiterated her belief that the 2020 election was stolen during her interview Thursday with the committee investigating the Ja… [+1800 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Ashley Strickland",
+    "title": "NASA spacecraft captures image of ocean world orbiting Jupiter during flyby - CNN",
+    "description": "A NASA spacecraft flew by Europa, one of Jupiter's moons, on Thursday to collect information about one of the most intriguing ocean worlds in our solar system. The Juno mission's first image of Europa's icy surface has already been shared.",
+    "url": "https://www.cnn.com/2022/09/29/world/nasa-juno-europa-jupiter-scn/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220929165007-juno-mission-europa.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-29T22:28:00Z",
+    "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA NASA spacecraft flew by one of the most intriguing o… [+4223 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "Austin Nivison",
+    "title": "Sara Walsh makes 'divorce' joke after husband Matt Buschmann gives away Aaron Judge's 61st home run ball - CBS Sports",
+    "description": "The Blue Jays bullpen coach gave the historic ball to Yankees personnel",
+    "url": "https://www.cbssports.com/mlb/news/sara-walsh-makes-divorce-joke-after-husband-matt-buschmann-gives-away-aaron-judges-61st-home-run-ball/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/29/a3142aa8-036d-4169-9112-ac8b0be1db29/thumbnail/1200x675/57441ebc67377a409ee3d3d15c736d34/gettyimages-1243583763-2.jpg",
+    "publishedAt": "2022-09-29T22:09:36Z",
+    "content": "Fans in Toronto missed out on snagging Aaron Judge's 61st home run ball on Wednesday night, but Blue Jaysbullpen coach Matt Buschman managed to pick it up. Much to the chagrin of his wife, Fox NFL re… [+1232 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Marcia Dunn",
+    "title": "Space telescopes capture asteroid slam with striking clarity - The Associated Press",
+    "description": "CAPE CANAVERAL, Fla. (AP) — The world now has stunning new photos of this week’s asteroid strike, the first planetary defense test of its kind.  NASA on Thursday released pictures of the dramatic event taken by the Hubble and Webb space telescopes.",
+    "url": "https://apnews.com/1e65493f564b0867f33f93a941701e03",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/1a3415eec4464fcb89ffffc80c0a7347/1620.jpeg",
+    "publishedAt": "2022-09-29T22:07:30Z",
+    "content": "CAPE CANAVERAL, Fla. (AP) The world now has stunning new photos of this weeks asteroid strike, the first planetary defense test of its kind. \r\nNASA on Thursday released pictures of the dramatic event… [+2631 chars]"
+    }
+    ]
+    }
+    
