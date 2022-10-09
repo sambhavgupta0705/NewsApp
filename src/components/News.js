@@ -11,9 +11,11 @@ export class News extends Component {
 
   }
   
+
 capitalizeFirstLetter(str){
 return str.charAt(0).toUpperCase() + str.slice(1);
 }
+
 
 // apiKey=process.env.REACT_APP_API_KEY
 articles=[]
